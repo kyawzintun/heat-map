@@ -9,4 +9,4 @@ $ npm install
 $ npm start
 ```
 
-*[Demo](https://cukyawzintun.github.io/heat-map/)*
+*[Demo](https://kyawzintun.github.io/heat-map/)*
